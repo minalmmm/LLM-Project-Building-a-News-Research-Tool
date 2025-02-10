@@ -57,8 +57,8 @@ streamlit run app.py
 
 ## 📸 Output Screenshots
 ### 🎯 Main Interface
-![Main UI][(https://github.com/minalmmm/LLM-Project-Building-a-News-Research-Tool/blob/main/images/img2.png)]
+![Main UI](https://github.com/minalmmm/LLM-Project-Building-a-News-Research-Tool/blob/main/images/img2.png)
 
 ### 📜 Generated Summary
-![Summary Output]([(https://github.com/minalmmm/LLM-Project-Building-a-News-Research-Tool/blob/main/images/img2.png)]
+![Summary Output](https://github.com/minalmmm/LLM-Project-Building-a-News-Research-Tool/blob/main/images/img2.png)
 
