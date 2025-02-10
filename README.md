@@ -3,6 +3,8 @@
 ## 🚀 Project Overview
 The **Equity Research News Tool** is an AI-powered web application built with **Streamlit**, **NewsAPI**, and **Hugging Face Transformers**. It enables users to fetch the latest news articles on a given topic and generates a concise summary using an AI text-generation model.
 
+![Architecture](https://github.com/minalmmm/LLM-Project-Building-a-News-Research-Tool/blob/main/images/img2.png)
+![Architecture](https://github.com/minalmmm/LLM-Project-Building-a-News-Research-Tool/blob/main/images/img2.png)
 ---
 
 ## 🏗️ Features
