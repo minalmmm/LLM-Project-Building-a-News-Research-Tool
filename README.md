@@ -35,8 +35,7 @@ The **Equity Research News Tool** is an AI-powered web application built with **
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/minalmmm/LLM-Project-Building-a-News-Research-Tool.git
 ```
 
 ### 2️⃣ Install Dependencies
@@ -47,7 +46,7 @@ pip install -r requirements.txt
 ### 3️⃣ Set Up API Keys
 Create a `.env` file and add your API keys:
 ```env
-NEWSAPI_KEY=your_newsapi_key_here
+NEWSAPI_KEY=a137d98b1c8649a99af0102aad336578
 ```
 
 ### 4️⃣ Run the Application
