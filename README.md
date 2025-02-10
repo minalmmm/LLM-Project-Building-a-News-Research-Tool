@@ -1,7 +1,7 @@
-# 📊 Equity Research News Summarizer
+# 📊 Equity Research News Tool
 
 ## 🚀 Project Overview
-The **Equity Research News Summarizer** is an AI-powered web application built with **Streamlit**, **NewsAPI**, and **Hugging Face Transformers**. It enables users to fetch the latest news articles on a given topic and generates a concise summary using an AI text-generation model.
+The **Equity Research News Tool** is an AI-powered web application built with **Streamlit**, **NewsAPI**, and **Hugging Face Transformers**. It enables users to fetch the latest news articles on a given topic and generates a concise summary using an AI text-generation model.
 
 ---
 
@@ -58,7 +58,5 @@ streamlit run app.py
 ## 📸 Output Screenshots
 ### 🎯 Main Interface
 ![Main UI](https://github.com/minalmmm/LLM-Project-Building-a-News-Research-Tool/blob/main/images/img2.png)
-
-### 📜 Generated Summary
-![Summary Output](https://github.com/minalmmm/LLM-Project-Building-a-News-Research-Tool/blob/main/images/img2.png)
+![Summary Output](https://github.com/minalmmm/LLM-Project-Building-a-News-Research-Tool/blob/main/images/img3.png)
 
